@@ -1,0 +1,24 @@
+{
+  "name": "typescript-goit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalVil/TypeScript-GoIT.git"
+  },
+  "keywords": [],
+  "author": "Vitali Bal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalVil/TypeScript-GoIT/issues"
+  },
+  "homepage": "https://github.com/BalVil/TypeScript-GoIT#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
